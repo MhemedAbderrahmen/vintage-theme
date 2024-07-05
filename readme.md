@@ -1,6 +1,6 @@
 # Vintage Theme for VSCode
 
-![Vintage Theme Preview](preview.png)
+![Vintage Theme Preview](https://raw.githubusercontent.com/MhemedAbderrahmen/vintage-theme/master/preview.png)
 
 ## Overview
 
@@ -43,13 +43,13 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MhemedAbderrahmen/vintage-theme/blob/master/license.md) file for details.
 
 ## Preview
 
 Here's a preview of the theme in action:
 
-![Vintage Theme in Action](preview.png)
+![Vintage Theme in Action](https://raw.githubusercontent.com/MhemedAbderrahmen/vintage-theme/master/preview.png)
 
 ## Author
 
