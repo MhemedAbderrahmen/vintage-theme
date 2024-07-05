@@ -1,0 +1,22 @@
+{
+  "name": "new-retro-booms",
+  "displayName": "New Retro Booms",
+  "description": "A vintage-themed color scheme for VSCode",
+  "version": "0.1.0",
+  "publisher": "AbderrahmenMHEMED",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vintage Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vintage-theme.json"
+      }
+    ]
+  }
+}
